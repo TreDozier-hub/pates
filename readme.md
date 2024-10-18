@@ -5,3 +5,5 @@
 - spaghetti
 - coquilletes
 - papillon
+- fusili 
+- linguine 
